@@ -31,6 +31,9 @@ platform-springBoot以CMS项目为基准构建的，为了前后端分离接口�
 - mybatis、pageHelper、mapper
 - druid
 - lombok
+- 统一异常管理
+- spring-data-redis整合
+- logback记录日志
 
 
 
