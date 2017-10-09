@@ -1,4 +1,9 @@
-# platform项目说明
+# platform-springBoot项目说明
+
+## 简介
+
+platform-springBoot以CMS项目为基准构建的，为了前后端分离接口提供方案。
+
 
 ## 模块介绍及目录结构 
 
@@ -13,6 +18,20 @@
 ##### platform-servers  |  服务
 * platform-cms-server   |  消息发布系统
 
-##部署时设备配置说明
+##### docs              |  platform文档
+
+##### sql               |  platform 依赖sql
+
+
+## 技术说明
+
+- springBoot 1.4.1
+- swagger
+- redis
+- mybatis、pageHelper、mapper
+- druid
+- lombok
+
+
 
 
