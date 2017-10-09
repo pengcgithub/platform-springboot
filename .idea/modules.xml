@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/platform.iml" filepath="$PROJECT_DIR$/platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-servers/platform-cms-server/platform-cms-server.iml" filepath="$PROJECT_DIR$/platform-servers/platform-cms-server/platform-cms-server.iml" />
+      <module fileurl="file://E:\workspace(idea)\platform-cloud\platform-servers\platform-web-servers\platform-cms-server\platform-demo-server.iml" filepath="E:\workspace(idea)\platform-cloud\platform-servers\platform-web-servers\platform-cms-server\platform-demo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-dependencies/platform-dependencies.iml" filepath="$PROJECT_DIR$/platform-dependencies/platform-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-modules/platform-modules.iml" filepath="$PROJECT_DIR$/platform-modules/platform-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-sdk/platform-sdk.iml" filepath="$PROJECT_DIR$/platform-sdk/platform-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-servers/platform-servers.iml" filepath="$PROJECT_DIR$/platform-servers/platform-servers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-modules/platform-utils/platform-utils.iml" filepath="$PROJECT_DIR$/platform-modules/platform-utils/platform-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-sdk/platform-web/platform-web.iml" filepath="$PROJECT_DIR$/platform-sdk/platform-web/platform-web.iml" />
+    </modules>
+  </component>
+</project>
