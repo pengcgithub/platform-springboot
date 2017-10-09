@@ -7,23 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="platform-cms-server" />
-        <module name="platform-demo-server" />
         <module name="platform-utils" />
         <module name="platform-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="platform" target="1.8" />
-      <module name="platform-app-servers" target="1.8" />
       <module name="platform-cms-server" target="1.8" />
-      <module name="platform-demo-server" target="1.8" />
       <module name="platform-dependencies" target="1.8" />
       <module name="platform-modules" target="1.8" />
       <module name="platform-sdk" target="1.8" />
       <module name="platform-servers" target="1.8" />
       <module name="platform-utils" target="1.8" />
       <module name="platform-web" target="1.8" />
-      <module name="platform-web-servers" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

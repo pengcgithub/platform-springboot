@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/platform.iml" filepath="$PROJECT_DIR$/platform.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform-servers/platform-cms-server/platform-cms-server.iml" filepath="$PROJECT_DIR$/platform-servers/platform-cms-server/platform-cms-server.iml" />
-      <module fileurl="file://E:\workspace(idea)\platform-cloud\platform-servers\platform-web-servers\platform-cms-server\platform-demo-server.iml" filepath="E:\workspace(idea)\platform-cloud\platform-servers\platform-web-servers\platform-cms-server\platform-demo-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform-dependencies/platform-dependencies.iml" filepath="$PROJECT_DIR$/platform-dependencies/platform-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform-modules/platform-modules.iml" filepath="$PROJECT_DIR$/platform-modules/platform-modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform-sdk/platform-sdk.iml" filepath="$PROJECT_DIR$/platform-sdk/platform-sdk.iml" />
