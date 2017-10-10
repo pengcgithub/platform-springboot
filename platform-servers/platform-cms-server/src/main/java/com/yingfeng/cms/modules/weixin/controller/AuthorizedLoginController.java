@@ -23,10 +23,10 @@ import java.io.UnsupportedEncodingException;
 @RequestMapping("/authorized")
 public class AuthorizedLoginController {
 
-    private static final String WX_APPID = "wx6e868a62d28571e6";
+    private static final String WX_APPID = "服务号APPID";
     private static final String SCOPE_BASE = "snsapi_base"; //静默授权
     private static final String SCOPE_USERINFO = "snsapi_userinfo"; //获取用户信息会提示确认授权
-    private static final String WX_APPSECRET = "38afed3c128ec76a3922cd3c40dcfe35";
+    private static final String WX_APPSECRET = "服务号APPSECRET";
 
     /**
      * 授权登录URL地址<br/>
