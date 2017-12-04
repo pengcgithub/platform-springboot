@@ -261,6 +261,13 @@
                 <version>${poi.version}</version>
             </dependency>
 
+            <!-- fastDfs-client -->
+            <dependency>
+                <groupId>com.github.tobato</groupId>
+                <artifactId>fastdfs-client</artifactId>
+                <version>1.25.4-RELEASE</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 
