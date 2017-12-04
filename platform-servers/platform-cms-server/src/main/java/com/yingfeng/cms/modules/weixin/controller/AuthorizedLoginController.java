@@ -15,6 +15,7 @@ import java.io.UnsupportedEncodingException;
 /**
  * 微信重定向相关方法<br/>
  *
+ * @author pengc
  * @see com.yingfeng.cms.modules.weixin.controller
  * @since 2017/9/27
  */
