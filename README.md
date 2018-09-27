@@ -27,15 +27,15 @@ platform-springBoot以CMS项目为基准构建的，为了前后端分离提供�
 
 - springBoot 1.4.1
 - swagger
-- redis [配置](https://github.com/pengcgithub/java-development-environment/blob/master/redis/redis%E5%AE%89%E8%A3%85.md)
+- redis [安装](https://github.com/pengcgithub/java-development-environment/blob/master/redis/redis%E5%AE%89%E8%A3%85.md)
 - mybatis、pageHelper、mapper
 - druid
 - lombok
 - 统一异常管理
 - spring-data-redis整合
 - logback记录日志
-- FastDFS [配置](https://github.com/pengcgithub/java-development-environment/blob/master/fastDFS/fastdfs.md)
-- mysql [配置](https://github.com/pengcgithub/java-development-environment/blob/master/mysql/mysql%E5%AE%89%E8%A3%85.md)
+- FastDFS [安装](https://github.com/pengcgithub/java-development-environment/blob/master/fastDFS/fastdfs.md)
+- mysql [安装](https://github.com/pengcgithub/java-development-environment/blob/master/mysql/mysql%E5%AE%89%E8%A3%85.md)
 
 ## 修改配置运行
 
